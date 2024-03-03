@@ -1,0 +1,12 @@
+e 0.818
+i 166.22
+Omega 101.8
+omega 18.4
+distance 8.19E3
+mass 4.15E6
+pos_center 0 0 0
+pos_satellite -0.0667 0.0576 0
+h 1
+max_t 4000
+pos_satellite2 -0.1178 0.0583 0
+vel_mult .88
