@@ -1,4 +1,5 @@
-This is the Gravitational Project solution for the Extreme Astrophysics course
+This is the Gravitational Project solution for the Extreme Astrophysics course (2021)
+Altho in the end the project failed due to time constraints it was still uploaded.
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 made by Dani van Enk 11823526
